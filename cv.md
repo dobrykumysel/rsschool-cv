@@ -17,8 +17,8 @@ title: Maratov Said's CV
 
 ## Education
 
-`Programming` __01 EDu System (42 Edu System)__ .
-
+`Programming` __Alem school (01 EDU System )__ .
+`Courses` __Stepik__, __educative__, __coursera__
 
 ## Technical skills
 
@@ -35,9 +35,13 @@ title: Maratov Said's CV
 * Halykbank (backend dev)
 * Alfabank (backend dev)
 
-## References
+## Languages
+* English (B2) IELTS (5.5)
+* Russian (native)
+* Kazakh (native)
+* Polish (B1) Warsaw State University sertificate
 
-Available upon request
+
 
 <!---
 _Last updated: October 2018_
