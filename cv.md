@@ -11,7 +11,7 @@ title: Maratov Said's CV
 <div id="webaddress">
 <a href="mailto:dobrykumysel@gmail.com">dobrykumysel@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/tadilbek11kz">dobrykumysel</a>
+<i class="fa fa-github"></i> <a href="http://github.com/dobrykumysel">dobrykumysel</a>
 |
 </div>
 
