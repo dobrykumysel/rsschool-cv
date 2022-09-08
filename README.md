@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dobrykumysel.github.io/rsschool-cv/
